@@ -37,7 +37,6 @@ Rustdesk 1.4.0 [Download](https://github.com/rustdesk/rustdesk/releases/download
 
 ## 📧 **Contact Support**
 
-If you need further assistance, please contact us via email at [mobiletttc@software.misa.com.vn](mailto:mobiletttc@software.misa.com.vn). We are always ready to help!
 
 ---
 
