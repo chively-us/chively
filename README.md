@@ -23,13 +23,13 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **Chively Mobile Sales** | 1.0.0 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/Sales_1_0_0.apk) |
-| **Chively Mobile KDS** | 1.0.0 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/KDS_1_0_0.apk) |
-| **Chively Mobile Manager** | 1.0.0 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/Manager_1_0_0.apk) |
+| **Chively Mobile Sales** | 1.0.0 | [Download](https://github.com/chively-us/chively/releases/download/1.0.0/Chively_Sales_1_0_0.apk) |
+| **Chively Mobile KDS** | 1.0.0 | [Download](https://github.com/chively-us/chively/releases/download/1.0.0/Chively_KDS_1_0_0.apk) |
+| **Chively Mobile Manager** | 1.0.0 | [Download](https://github.com/chively-us/chively/releases/download/1.0.0/Chively_Manager_1_0_0.apk) |
 
 ### Old Versions
 
-You can download previous versions from [`installation-files.md`](https://cukcuk-us.github.io/Chively-US/installation-files.html).
+You can download previous versions from [`installation-files.md`](https://chively-us.github.io/chively/installation-files.html).
 
 ### Remote control 
 Rustdesk 1.4.0 [Download](https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-universal-signed.apk)
