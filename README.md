@@ -3,13 +3,13 @@
 Thank you for visiting! Below are all the necessary installation files for Chively Mobile Global. We have organized them by version and application to help you find what you need quickly and easily.
 
 CH Play:
-[Chively Manager]()
+[Chively Manager](https://play.google.com/store/apps/details?id=com.luqra.chivelymanager)
 
 Appstore:
-[Chively Manager]()
+[Chively Manager](https://apps.apple.com/us/app/chively-manager-us/id6751105825)
 
 Testflight:
-[Chively Manager]()
+[Chively Manager](https://testflight.apple.com/join/H8vrSJ4j)
 
 
 ## 📚 **How to Download Files**
