@@ -23,9 +23,9 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **Chively Mobile Sales** | 1.0.0 | [Download](https://github.com/chively-us/chively/releases/download/1.0.0/Chively_Sales_1_0_0.apk) |
-| **Chively Mobile KDS** | 1.0.0 | [Download](https://github.com/chively-us/chively/releases/download/1.0.0/Chively_KDS_1_0_0.apk) |
-| **Chively Mobile Manager** | 1.0.0 | [Download](https://github.com/chively-us/chively/releases/download/1.0.0/Chively_Manager_1_0_0.apk) |
+| **Chively Mobile Sales** | 2.0.0 | [Download](https://github.com/chively-us/chively/releases/download/2.0.0/Chively_Sales_2_0_0.apk) |
+| **Chively Mobile KDS** | 2.0.0 | [Download](https://github.com/chively-us/chively/releases/download/2.0.0/Chively_KDS_2_0_0.apk) |
+| **Chively Mobile Manager** | 2.0.0 | [Download](https://github.com/chively-us/chively/releases/download/2.0.0/Chively_Manager_2_0_0.apk) |
 
 ### Old Versions
 
