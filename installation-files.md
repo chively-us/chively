@@ -4,7 +4,7 @@
 
 | Application | Version | Download |
 |---|---|---|
-| **Chively Mobile Sales** | 2.0.0 | [Download](https://github.com/chively-us/chively/releases/download/2.0.0/Chively_Sales_2_0_0.apk) |
+| **Chively Mobile Sales** | 2.0.2 | [Download](https://github.com/chively-us/chively/releases/download/2.0.1/Sales_2_0_2.apk) |
 | **Chively Mobile KDS** | 2.0.0 | [Download](https://github.com/chively-us/chively/releases/download/2.0.0/Chively_KDS_2_0_0.apk) |
 | **Chively Mobile Manager** | 2.0.0 | [Download](https://github.com/chively-us/chively/releases/download/2.0.0/Chively_Manager_2_0_0.apk) |
 
