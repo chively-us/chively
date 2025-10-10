@@ -1,5 +1,13 @@
 🎉 Welcome to Chively APK Repository!
 
+
+### Version 3
+
+| Application | Version | Download |
+|---|---|---|
+| **Chively Mobile Sales** | 3.0.0 | [Download](https://github.com/chively-us/chively/releases/download/3.0.0/Sales_3_0_0.apk) |
+
+
 ### Version 2
 
 | Application | Version | Download |
