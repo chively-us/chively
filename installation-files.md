@@ -1,5 +1,14 @@
 🎉 Welcome to Chively APK Repository!
 
+### Version 7
+
+| Application | Version | Download |
+|---|---|---|
+| **Chively Mobile Sales** | 7.0.6 | [Download](https://github.com/chively-us/chively/releases/download/7.0.0/Chively_Sales_7_0_6.apk) |
+| **Chively Mobile KDS** | 7.0.0 | [Download](https://github.com/chively-us/chively/releases/download/7.0.0/Chively_KDS_7_0_0.apk) |
+| **Chively Mobile Manager** | 7.0.1 | [Download](https://github.com/chively-us/chively/releases/download/7.0.0/Chively_Manager_7_0_1.apk) |
+
+
 ### Version 6
 
 | Application | Version | Download |
