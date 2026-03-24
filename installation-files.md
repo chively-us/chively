@@ -1,5 +1,13 @@
 🎉 Welcome to Chively APK Repository!
 
+### Version 8
+
+| Application | Version | Download |
+|---|---|---|
+| **Chively Mobile Sales** | 8.0.0 | [Download](https://github.com/chively-us/chively/releases/download/8.0.0/Chively_Sales_8_0_0.apk) |
+| **Chively Mobile Manager** | 8.0.0 | [Download](https://github.com/chively-us/chively/releases/download/8.0.0/Chively_Manager_8_0_0.apk) |
+
+
 ### Version 7
 
 | Application | Version | Download |
