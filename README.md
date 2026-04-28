@@ -23,7 +23,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **Chively Mobile Sales** | 10.0.2 | [Download](https://github.com/chively-us/chively/releases/download/10.0.0/Chively_Sales_10_0_2.apk) |
+| **Chively Mobile Sales** | 11.0.1 | [Download](https://github.com/chively-us/chively/releases/download/11.0.0/Chively_Sales_11_0_1.apk) |
 | **Chively Mobile KDS** | 10.0.0 | [Download](https://github.com/chively-us/chively/releases/download/10.0.0/Chively_KDS_10_0_0.apk) |
 | **Chively Mobile Manager** | 10.0.0 | [Download](https://github.com/chively-us/chively/releases/download/10.0.0/Chively_Manager_10_0_0.apk) |
 
