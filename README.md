@@ -1,6 +1,6 @@
 # 🎉 **Welcome to Chively APK Repository!**
 
-Thank you for visiting! Below are all the necessary installation files for Chively Mobile Global. We have organized them by version and application to help you find what you need quickly and easily.
+Thank you for visiting! Below are all the necessary installation files. We have organized them by version and application to help you find what you need quickly and easily.
 
 CH Play:
 [Chively Manager](https://play.google.com/store/apps/details?id=com.luqra.chivelymanager)
@@ -23,10 +23,10 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **Chively Mobile Sales** | 11.0.4 | [Download](https://github.com/chively-us/chively/releases/download/11.0.0/Chively_Sales_11_0_4.apk) |
-| **Chively Mobile Kiosk** | 11.0.2 | [Download](https://github.com/chively-us/chively/releases/download/11.0.0/Chively_Kiosk_11_0_2.apk) |
-| **Chively Mobile KDS** | 10.0.0 | [Download](https://github.com/chively-us/chively/releases/download/10.0.0/Chively_KDS_10_0_0.apk) |
-| **Chively Mobile Manager** | 10.0.0 | [Download](https://github.com/chively-us/chively/releases/download/10.0.0/Chively_Manager_10_0_0.apk) |
+| **Chively Sales** | 11.0.4 | [Download](https://github.com/chively-us/chively/releases/download/11.0.0/Chively_Sales_11_0_4.apk) |
+| **Chively Kiosk** | 11.0.2 | [Download](https://github.com/chively-us/chively/releases/download/11.0.0/Chively_Kiosk_11_0_2.apk) |
+| **Chively KDS** | 10.0.0 | [Download](https://github.com/chively-us/chively/releases/download/10.0.0/Chively_KDS_10_0_0.apk) |
+| **Chively Manager** | 10.0.0 | [Download](https://github.com/chively-us/chively/releases/download/10.0.0/Chively_Manager_10_0_0.apk) |
 
 ### Old Versions
 
