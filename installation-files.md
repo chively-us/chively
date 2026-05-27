@@ -1,4 +1,10 @@
 🎉 Welcome to Chively APK Repository!
+### Lastest Version
+
+| Application | Version | Download |
+|---|---|---|
+| **Chively Sales** | 11.0.4 | [Download](https://github.com/chively-us/chively/releases/download/11.0.0/Chively_Sales_11_0_4.apk) |
+| **Chively Kiosk** | 11.0.2 | [Download](https://github.com/chively-us/chively/releases/download/11.0.0/Chively_Kiosk_11_0_2.apk) |
 
 ### Version 10
 
