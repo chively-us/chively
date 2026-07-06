@@ -19,6 +19,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 ## 🗂️ **Installation Files**
 
+
 ### Lastest Version
 
 | Application | Version | Download |
@@ -37,7 +38,6 @@ Rustdesk 1.4.0 [Download](https://github.com/rustdesk/rustdesk/releases/download
 
 
 ## 📧 **Contact Support**
-
 
 ---
 
