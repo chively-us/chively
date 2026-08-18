@@ -26,7 +26,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 |---|---|---|
 | **Chively Sales** | 15.0.0 | [Download](https://github.com/chively-us/chively/releases/download/15/Chively_Sales_15_0_0.apk) |
 | **Chively Kiosk** | 15.0.0 | [Download](https://github.com/chively-us/chively/releases/download/15/Chively_Kiosk_15_0_0.apk) |
-| **Chively KDS** | 14.0.1 | [Download](https://github.com/chively-us/chively/releases/download/14.0.0/Chively_KDS_14_0_1.apk) |
+| **Chively KDS** | 15.0.0 | [Download](https://github.com/chively-us/chively/releases/download/15/Chively_KDS_15_0_0.apk) |
 | **Chively Manager** | 12.0.1 | [Download](https://github.com/chively-us/chively/releases/download/12.0.0/Chively_Manager_12_0_1.apk) |
 
 ### Old Versions
