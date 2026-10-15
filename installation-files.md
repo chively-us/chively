@@ -1,5 +1,12 @@
 🎉 Welcome to Chively APK Repository!
 
+### Version 16
+
+| Application | Version | Download |
+|---|---|---|
+| **Chively Sales** | 16.0.4 | [Download](https://github.com/chively-us/chively/releases/download/16/Chively_Sales_16_0_4.apk) |
+| **Chively Kiosk** | 16.0.3 | [Download](https://github.com/chively-us/chively/releases/download/16/Chively_Kiosk_16_0_3.apk) |
+
 ### Version 15
 
 | Application | Version | Download |
